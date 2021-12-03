@@ -4,7 +4,7 @@
   "description": "Simple smooth scroll based on GSAP library",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "serve": "vite preview"
   },
